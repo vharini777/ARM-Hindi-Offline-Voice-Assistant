@@ -1,4 +1,3 @@
-# ARM-Hindi-Offline-Voice-Assistant
 # 🎙️ Offline Hindi Voice Assistant (Raspberry Pi)
 
 A fully offline, privacy-preserving Hindi voice assistant running entirely on a Raspberry Pi 4.  
